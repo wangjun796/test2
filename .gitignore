@@ -2,6 +2,3 @@
 grit/
 *.bin
 *.o
-*.exe
-*.tar
-gitdemo-commit-tree/
