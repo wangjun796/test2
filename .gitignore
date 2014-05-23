@@ -2,6 +2,10 @@
 grit/
 *.bin
 *.o
+<<<<<<< HEAD
 src/
+=======
+*.exe
+>>>>>>> ecc88ba195517fe8a8405a704b20eb76786a3842
 *.tar
 gitdemo-commit-tree/
